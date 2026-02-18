@@ -10,7 +10,7 @@ readme = "README.md"
 python = "^3.10"
 python-jose = {extras = ["cryptography"], version = "^3.4.0"}
 passlib = {extras = ["bcrypt"], version = "^1.7.4"}
-python-multipart = "^0.0.19"
+python-multipart = "^0.0.22"
 libgravatar = "^1.0.4"
 cloudinary = "^1.41.0"
 sphinx = "^8.1.3"
